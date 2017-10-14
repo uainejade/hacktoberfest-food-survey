@@ -7,7 +7,8 @@ This is a very simple and easy way to get another PR for [Hacktoberfest](https:/
 # Getting Started
  - Fork this repo and edit [FAVORITE-FOODS.md](https://github.com/LiamDevJS/hacktoberfest-food-survey/blob/master/FAVORITE-FOODS.md), and add your age and favorite food(s).  Here's a template:
  
-```#### [LiamDevJS](https://github.com/LiamDevJS)
+```
+[LiamDevJS](https://github.com/LiamDevJS)
 - Age: 15
 - Favorite Food(s): Enchildas
 ```
