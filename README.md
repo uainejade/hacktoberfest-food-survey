@@ -1,4 +1,4 @@
-# Hacktoberfest Foods Survey
+# Hacktoberfest Favorite Foods Survey
 Welcome to my 1st hacktoberfest repo!  
 
 This is a very simple and easy way to get another PR for [Hacktoberfest](https://hacktoberfest.digitalocean.com)!
