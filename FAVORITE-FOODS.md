@@ -1,3 +1,4 @@
+# Hacktoberfest Food Survey List
 [LiamDevJS](https://github.com/LiamDevJS)
 - Age: 15
 - Favorite Food: Enchildas
@@ -10,4 +11,6 @@
 - Age: 20
 - Favorite Food: Spaghetti
 
-
+[KevinLamb](https://github.com/KevinLamb)
+- Age: 20
+- Favorite Food: Pizza
