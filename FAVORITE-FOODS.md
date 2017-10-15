@@ -6,4 +6,8 @@
 - Age: 21
 - Favorite Food: Pizza
 
+[netsudo](https://github.com/netsudo)
+- Age: 20
+- Favorite Food: Spaghetti
+
 
