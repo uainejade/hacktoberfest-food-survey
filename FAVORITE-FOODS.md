@@ -1,4 +1,4 @@
-# Hacktoberfest Favorite Foods Survey
+# Hacktoberfest Favorite Foods Survey - Survey List
 [LiamDevJS](https://github.com/LiamDevJS)
 - Age: 15
 - Favorite Food: Enchildas
