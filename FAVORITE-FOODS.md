@@ -18,3 +18,7 @@
 [Wprzyb](https://github.com/wprzyb)
 - Age: 23
 - Favorite Food: Steak
+
+[Sanushen](https://github.com/sanushen)
+- Age: 28
+- Favorite Food(s): Samoosa
