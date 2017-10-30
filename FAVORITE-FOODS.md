@@ -14,3 +14,7 @@
 [KevinLamb](https://github.com/KevinLamb)
 - Age: 20
 - Favorite Food: Pizza
+
+[Wprzyb](https://github.com/wprzyb)
+- Age: 23
+- Favorite Food: Steak
