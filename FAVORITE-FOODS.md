@@ -19,6 +19,10 @@
 - Age: 23
 - Favorite Food: Steak
 
+[Jsmatty] (https://github.com/jsmatty)
+- Age: 25
+- Favorite Food: Sushi
+
 [Sanushen](https://github.com/sanushen)
 - Age: 28
 - Favorite Food(s): Samoosa
