@@ -22,3 +22,8 @@
 [Sanushen](https://github.com/sanushen)
 - Age: 28
 - Favorite Food(s): Samoosa
+
+
+[mosekwa](https://github.com/mosekwa)
+- Age: 35
+- Favorite Food: Maotwana
