@@ -31,3 +31,8 @@
 [mosekwa](https://github.com/mosekwa)
 - Age: 35
 - Favorite Food: Maotwana
+
+[uainejade](https://github.com/uainejade)
+- Age: 48
+- Favorite Food: Steak
+
